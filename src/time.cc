@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdint.h>
 #include <time.h>
-#include <windows.h>
 
 #include "nan.h"
 
